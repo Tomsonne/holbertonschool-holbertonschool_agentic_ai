@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "crm-server": {
+            "type": "stdio",
+            "command": "/usr/bin/env",
+            "args": [
+                "node",
+                "${workspaceFolder}/mcp_server.js"
+            ]
+        }
+    }
+}
