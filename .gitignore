@@ -1,0 +1,11 @@
+# --- Dependances ---
+node_modules/
+venv/
+.venv/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+
+# --- OS ---
+.DS_Store
